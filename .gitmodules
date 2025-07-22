@@ -1,0 +1,9 @@
+[submodule "CTF-challenges/sql-injection-challenge"]
+	path = CTF-challenges/sql-injection-challenge
+	url = https://github.com/KiPhuong/sql-injection-challenge.git
+[submodule "CTF-challenges/invisible-admin-panel"]
+	path = CTF-challenges/invisible-admin-panel
+	url = https://github.com/KiPhuong/invisible-admin-panel.git
+[submodule "CTF-challenges/web-ctf"]
+	path = CTF-challenges/web-ctf
+	url = https://github.com/KiPhuong/web-ctf.git
