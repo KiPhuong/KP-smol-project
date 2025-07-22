@@ -24,7 +24,7 @@ ENV LD_LIBRARY_PATH=/usr/local/lib
 # 4. Build và cài nghttp3 (dùng đúng commit tương thích sfparse cũ)
 RUN git clone --recursive https://github.com/ngtcp2/nghttp3 && \
     cd nghttp3 && \
-    git checkout a13d679a0c727fcf5e8cde4e6a8f5f292b0c06b4 && \
+    git checkout v1.2.0 && \
     git submodule update --init --recursive && \
     autoreconf -fi && \
     ./configure --prefix=/usr/local \
