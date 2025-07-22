@@ -7,3 +7,6 @@
 [submodule "CTF-challenges/web-ctf"]
 	path = CTF-challenges/web-ctf
 	url = https://github.com/KiPhuong/web-ctf.git
+[submodule "PoC-CVEs/PoC-CVEs/cve-2016-6210"]
+	path = PoC-CVEs/PoC-CVEs/cve-2016-6210
+	url = https://github.com/KiPhuong/cve-2016-6210.git
