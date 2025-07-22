@@ -1,0 +1,9 @@
+# Bỏ qua tất cả file key, cert, csr và các khóa liên quan
+*.key
+*.pem
+*.csr
+*.crt
+
+# Nếu bạn có folder chứa cert/key
+certs/
+secrets/
