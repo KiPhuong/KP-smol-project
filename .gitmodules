@@ -13,3 +13,6 @@
 [submodule "PoC-CVEs/cve-2016-6210"]
 	path = PoC-CVEs/cve-2016-6210
 	url = https://github.com/KiPhuong/cve-2016-6210.git
+[submodule "PoC-CVEs/cve-2024-3552"]
+	path = PoC-CVEs/cve-2024-3552
+	url = https://github.com/KiPhuong/cve-2024-3552.git
